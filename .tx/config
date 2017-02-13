@@ -17,3 +17,8 @@ file_filter = locale/<lang>/LC_MESSAGES/dir1/index.po
 source_file = build/en/gettext/dir1/index.pot
 source_lang = en
 
+[translationtest_1.dir1--anotherfile]
+file_filter = locale/<lang>/LC_MESSAGES/dir1/anotherfile.po
+source_file = build/en/gettext/dir1/anotherfile.pot
+source_lang = en
+
