@@ -16,6 +16,10 @@ Dit is some documentation. This is paragraph 1.
 
 This is another paragraph.
 
+::
+
+ sphinx-intl update-txconfig-resources --pot-dir build/en/gettext/ --transifex-project-name translationtest_1
+
 .. image:: _static/screenshots/osgeolive_menu.png
   :scale: 50%
   :alt: live menu
